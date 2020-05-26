@@ -2,8 +2,14 @@
   margin: 0;
   padding-top: 34px;
   max-width: 690px;
-  font-family: Inter, sans-serif;
+  font-family: 'Inter', ‘Arial’, sans-serif;
   font-size: 16px;
   line-height: 1.63;
   color: #FFFFFF;
+}
+
+@media screen and (max-width: 767px) {
+  .intro__text {
+    max-width: 720px;
+  }
 }
