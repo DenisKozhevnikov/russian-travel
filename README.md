@@ -5,7 +5,7 @@
 
 
 ### Ссылка на сайт
-* [сайт на ph-pages](https://deniskozhevnikov.github.io/russian-travel/index.html)
+* [сайт на gh-pages](https://deniskozhevnikov.github.io/russian-travel/index.html)
 
 
 ### Для каких разрешений сделан сайт
